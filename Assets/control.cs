@@ -9,10 +9,13 @@ public class control : MonoBehaviour
     float vertical;
     float velocidad = 10.0f;
     float salto = 7.0f;
-    // Start is called before the first frame update
+    private Animator Animator;
+     
+
+
     void Start()
     {
-     
+        Animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
