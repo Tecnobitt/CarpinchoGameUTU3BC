@@ -12,11 +12,11 @@ public class control : MonoBehaviour
 
     private Animator Animator;
     private Rigidbody2D Rigidbody2D;
-    
+
+    private bool grounded;
 
     void Start()
     {
-        
         Animator = GetComponent<Animator>();
         Rigidbody2D = GetComponent<Rigidbody2D>();
     }
@@ -29,15 +29,25 @@ public class control : MonoBehaviour
 
         Animator.SetBool("Walking", horizontal != 0.0f);
 
-        if (horizontal < 0.0f){
+        Debug.DrawRay(transform.position, Vector3.down * 0.1f, Color.red);
+        if (Physics2D.Raycast(transform.position, Vector3.down, 0.5f))
+        {
+            grounded = true;
+        }
+        else
+        {
+            grounded = false;
+        }
+
+        if (horizontal < 0.0f) {
             transform.localScale = new Vector3(2.0f, 2f, 2f);
-                }
-                else if (horizontal > 0.0f)
+        }
+        else if (horizontal > 0.0f)
         {
             transform.localScale = new Vector3(-2.0f, 2f, 2f);
-                }
-        
-        if (Input.GetKeyDown(KeyCode.W))
+        }
+
+        if (Input.GetKeyDown(KeyCode.W) && grounded == true)
         {
             Jump();
         }
@@ -47,9 +57,9 @@ public class control : MonoBehaviour
 
         if (Input.GetKey(KeyCode.R))
         {
-            transform.position= new Vector3(0, 0, 0);
+            transform.position = new Vector3(0, 0, 0);
         }
 
-        
+
     }
 }
