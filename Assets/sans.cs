@@ -29,8 +29,7 @@ public class sans : MonoBehaviour
         {
             if (lol.gameObject.tag == "Player")
             {
-                Destroy(lol.gameObject);
-                Destroy(this.gameObject);
+                
             }
         }
 
