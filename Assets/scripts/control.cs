@@ -60,7 +60,7 @@ public class control : MonoBehaviour
 
         if (Input.GetKey(KeyCode.R))
         {
-            transform.position = new Vector3(0, 0, 0);
+            SceneManager.LoadScene("tutorialInicio");
         }
 
         if (Input.GetKey(KeyCode.Escape))
@@ -76,6 +76,7 @@ public class control : MonoBehaviour
         {
             Destroy(gameObject);
             SceneManager.LoadScene("MENUPRINCIPAL");
+            vida = vida + 3;
         }
     }
             
