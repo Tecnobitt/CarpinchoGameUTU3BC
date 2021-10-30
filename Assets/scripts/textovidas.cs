@@ -20,6 +20,4 @@ public class textovidas : MonoBehaviour
     {
         vida.text = "Vidas = "+ control.vida.ToString();
     }
-
-    
 }

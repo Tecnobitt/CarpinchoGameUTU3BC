@@ -9,9 +9,7 @@ public class cambiodenivel : MonoBehaviour
    void OnCollisionEnter2D(Collision2D c2)
     {
         if(c2.gameObject.tag == "Player") { 
-        SceneManager.LoadScene("nivel1");
-        
+            SceneManager.LoadScene("cinematica1");
         }
     }
-    
 }

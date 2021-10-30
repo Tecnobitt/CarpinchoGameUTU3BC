@@ -31,14 +31,9 @@ public class BalaScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        control CARLOS = collision.GetComponent<control>();
-        plantaScript planta = collision.GetComponent<plantaScript>();
-        if (CARLOS != null)
-        {
-            CARLOS.Golpe();
-        }
+        var CARLOS = collision.GetComponent<control>();
+        var planta = collision.GetComponent<plantaScript>();
+        CARLOS?.Golpe();
         ChauBala();
     }
-
-
 }
