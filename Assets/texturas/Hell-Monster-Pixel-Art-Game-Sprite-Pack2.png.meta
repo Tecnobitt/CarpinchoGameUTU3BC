@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: f25845d41a8e2354db9019c638941a02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3108671101225155011
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_0
+  - first:
+      213: 4122732001283712873
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_1
+  - first:
+      213: -7285349461225104617
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_2
+  - first:
+      213: 544628365460588499
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_3
+  - first:
+      213: -6150252286980116500
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_4
+  - first:
+      213: -7739551682147526358
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_5
+  - first:
+      213: -3631528182595326555
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_6
+  - first:
+      213: -5764321970658857326
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_7
+  - first:
+      213: -7431291381515406421
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_8
+  - first:
+      213: 5715607876905948178
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_9
+  - first:
+      213: 4226868900153365086
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_10
+  - first:
+      213: -5074954587869550963
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_11
+  - first:
+      213: -8632563535964874316
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_12
+  - first:
+      213: 4154294972785843755
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_13
+  - first:
+      213: -7652524763166603411
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_14
+  - first:
+      213: 4837562984033573109
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_15
+  - first:
+      213: -1544913619915190063
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_16
+  - first:
+      213: 5985161680395162405
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_17
+  - first:
+      213: -1575954611762336296
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_18
+  - first:
+      213: 5393518623678644494
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_19
+  - first:
+      213: 5845780379403088510
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_20
+  - first:
+      213: -7651706207752117533
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_21
+  - first:
+      213: 5760766129222579273
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_22
+  - first:
+      213: 4944520520810342371
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_23
+  - first:
+      213: 2134849164820183186
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_24
+  - first:
+      213: -2413501487812209621
+    second: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 781
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c3f79a18cbd4d0800000000000000
+      internalID: -3108671101225155011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 782
+        width: 129
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a6a879e2e63930800000000000000
+      internalID: 4122732001283712873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 777
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b1813b34d35ea90800000000000000
+      internalID: -7285349461225104617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 777
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d741e1ec98ee8700800000000000000
+      internalID: 544628365460588499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 597
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2483612ae5aaa0800000000000000
+      internalID: -6150252286980116500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 597
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d1d040c6979490800000000000000
+      internalID: -7739551682147526358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 602
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ade59ccb583a9dc0800000000000000
+      internalID: -3631528182595326555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 597
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e26e755b30100b0800000000000000
+      internalID: -5764321970658857326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 416
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33a567cdfbed890800000000000000
+      internalID: -7431291381515406421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 411
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214576ad41be15f40800000000000000
+      internalID: 5715607876905948178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 412
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5299c9aedad8aa30800000000000000
+      internalID: 4226868900153365086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_11
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 411
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ebcac0b32299b0800000000000000
+      internalID: -5074954587869550963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 444
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d2d98339f23880800000000000000
+      internalID: -8632563535964874316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_13
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 444
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e5711744507a930800000000000000
+      internalID: 4154294972785843755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_14
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 440
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670390d545ccc590800000000000000
+      internalID: -7652524763166603411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_15
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 443
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f856e947e9722340800000000000000
+      internalID: 4837562984033573109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 227
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0da4c7f3d5f8ae0800000000000000
+      internalID: -1544913619915190063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 227
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523db3b66d09f0350800000000000000
+      internalID: 5985161680395162405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_18
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 224
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd64cf51a5112ae0800000000000000
+      internalID: -1575954611762336296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 224
+        width: 137
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c1d5bc90a9da40800000000000000
+      internalID: 5393518623678644494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 52
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f4456842602150800000000000000
+      internalID: 5845780379403088510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 44
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a8499ebdafc590800000000000000
+      internalID: -7651706207752117533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f96ec54a52ff40800000000000000
+      internalID: 5760766129222579273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 148
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a78b67377e9440800000000000000
+      internalID: 4944520520810342371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 41
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2987526210280ad10800000000000000
+      internalID: 2134849164820183186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hell-Monster-Pixel-Art-Game-Sprite-Pack2_25
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 41
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2493122f25818ed0800000000000000
+      internalID: -2413501487812209621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ascensor : MonoBehaviour
 {
+    public GameObject lol;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,11 +17,11 @@ public class ascensor : MonoBehaviour
         
     }
 
-    void OnCollisionEnter(Collision c1)
+    void OnCollisionStay(Collision c1)
     {
         if(c1.gameObject.tag == "Player")
         {
-            transform.Translate(0f, 0.001f, 0f);
+            lol.transform.position += lol.transform.up * Time.deltaTime;
         }
     }
 }

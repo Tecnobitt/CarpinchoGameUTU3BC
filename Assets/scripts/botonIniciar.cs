@@ -8,7 +8,6 @@ public class botonIniciar : MonoBehaviour
     public void BotonApretar()
     {
         SceneManager.LoadScene("tutorialInicio");
+        Time.timeScale = 1f;
     }
-  
-
 }
