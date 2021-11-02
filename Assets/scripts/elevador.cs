@@ -9,14 +9,15 @@ public class elevador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0f, velocidad, 0f);
+
+        transform.Translate(0f, velocidad * Time.deltaTime, 0f);
     }
 
     private void OnCollisionEnter2D(Collision2D c1)
     {
         if (c1.gameObject.tag == "Player")
         {
-            velocidad = 0.005f;
+            velocidad = 2.71f;
         }
      }
 }

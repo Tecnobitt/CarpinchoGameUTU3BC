@@ -18,6 +18,6 @@ public class textovidas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        vida.text = "Vidas = "+ control.vida.ToString();
+        vida.text = control.vida.ToString();
     }
 }

@@ -7,6 +7,6 @@ public class sciptCinematica1 : MonoBehaviour
     // Update isalled once per frame
     void Update()
     {
-        transform.Translate(0.01f, 0f, 0f);
+        transform.Translate(10f* Time.deltaTime, 0f, 0f);
     }
 }

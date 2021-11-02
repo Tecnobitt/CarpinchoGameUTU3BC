@@ -94,9 +94,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f667abe731bb68b42a1e843abf531f07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 6620969103892872274, guid: 30fb3264188b0ca4ebef624479d1604a, type: 3}
   agroRange: 5
-  velocidad: 2
+  velocidad: 5
 --- !u!1 &2673157674127236591
 GameObject:
   m_ObjectHideFlags: 0
