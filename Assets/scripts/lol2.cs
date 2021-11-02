@@ -9,7 +9,7 @@ public class lol2 : MonoBehaviour
     {
         if (c2.gameObject.tag == "Jefe")
         {
-            SceneManager.LoadScene("tutorialinicio");
+            SceneManager.LoadScene("nivelFinal");
         }
     }
 }
