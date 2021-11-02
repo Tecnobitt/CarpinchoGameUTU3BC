@@ -10,7 +10,7 @@ public class lol : MonoBehaviour
     {
         if (c2.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene("tutorialinicio");
+            SceneManager.LoadScene("cinematica0p2");
         }
     }
 }
