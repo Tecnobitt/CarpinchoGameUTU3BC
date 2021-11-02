@@ -1,4 +1,6 @@
 # UnVeranoEnPaz
-Nicolas Coitiño Lucas Navarro Marcos Mendez
+Nicolas Coitiño Lucas Navarro Marcos Mendez.
+
 WASD/Flechas para moverse
-"R" para volver a posicion inicial
+W/Espacio para saltar
+R para volver al primer nivel
