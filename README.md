@@ -23,3 +23,10 @@ EDM Detection Mode by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/3687-edm-detection-mode
 License: https://filmmusic.io/standard-license
 
+Windswept by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/4629-windswept
+License: https://filmmusic.io/standard-license
+
+Anxiety by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3374-anxiety
+License: https://filmmusic.io/standard-license
