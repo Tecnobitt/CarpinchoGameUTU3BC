@@ -7,7 +7,7 @@ public class botonIniciar : MonoBehaviour
 {
     public void BotonApretar()
     {
-        SceneManager.LoadScene("cinematica0p2");
+        SceneManager.LoadScene("cinematica0p1");
         Time.timeScale = 1f;
     }
 }

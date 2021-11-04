@@ -9,6 +9,7 @@ public class scriptTexto : MonoBehaviour
     {
         if (c1.gameObject.tag == "Player")
         {
+            Time.timeScale = 0f;
             PanelTexto.SetActive(true);
         }
     }

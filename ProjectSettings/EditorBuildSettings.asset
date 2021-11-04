@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MENUOPCIONES.unity
     guid: 0a80f84088dc7e74fb0a2377a7f1ff1d
   - enabled: 1
+    path: Assets/Scenes/cinematica0p1.unity
+    guid: c770358e11170b648bba7d420dee05bb
+  - enabled: 1
     path: Assets/Scenes/cinematica0p2.unity
     guid: 25d337413b879414e8f698c8b410fa57
   - enabled: 1
@@ -32,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/nivelFinal.unity
     guid: 152b735f15b6bcf49947a5bf9ea32338
+  - enabled: 1
+    path: Assets/Scenes/PELEAFINAL.unity
+    guid: df78971426eb0244586187f47b4a7c71
   - enabled: 1
     path: Assets/Scenes/PANTALLAFINAL.unity
     guid: c6a77486238884a4ca09782b921014f8
