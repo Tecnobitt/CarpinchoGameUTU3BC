@@ -7,6 +7,6 @@ public class scriptOk : MonoBehaviour
 {
     public void ApretarBoton()
     {
-        SceneManager.LoadScene("PANTALLAFINAL");
+        SceneManager.LoadScene("PELEAFINAL");
     }
 }

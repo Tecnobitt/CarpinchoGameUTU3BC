@@ -19,10 +19,13 @@ public class control : MonoBehaviour
 
     public GameObject MuerteUI;
 
+    AudioSource HitSFX;
+
     void Start()
     {
         Animator = GetComponent<Animator>();
         Rigidbody2D = GetComponent<Rigidbody2D>();
+        HitSFX = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -58,6 +61,7 @@ public class control : MonoBehaviour
 
     public void Golpe()
     {
+        HitSFX.Play();
         if (--vida == 0)
         {
             MuerteUI.SetActive(true);
